@@ -1,1 +1,7 @@
-Tava tudo errado, achei melhor fazer do zero
+# hello-world
+teste
+
+teste de mudanças
+
+do meu pontode vista so tava faltando essa linha
+
